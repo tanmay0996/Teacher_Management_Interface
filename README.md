@@ -80,8 +80,8 @@ src/
 
 ## 🎥 Demo
 
-- **Live Demo**: [Coming Soon](#)
-- **Walkthrough Video**: [Coming Soon](#)
+- **Live Demo**: https://teacher-management-interface-ydi2.vercel.app/
+- **Walkthrough Video**: (https://www.loom.com/share/92532c81178940a6867d62eee3f26a17?sid=5d12679c-8776-4768-9a6f-c9ab2edc7799)
 
 ## 📝 License
 
