@@ -135,13 +135,12 @@ export default function Home() {
 
       {/* Edit Modal */}
       <TeacherEditModal
-        isOpen={isEditModalOpen}
-        onClose={() => setIsEditModalOpen(false)}
-        profile={teacherProfile}
-        onUpdate={handleProfileUpdate}
-      />
-        onUpdate={handleProfileUpdate}
-      />
+  isOpen={isEditModalOpen}
+  onClose={() => setIsEditModalOpen(false)}
+  profile={teacherProfile}
+  onUpdate={handleProfileUpdate}
+/>
+
 
       {/* Toast notifications */}
       <Toaster toasts={toasts} onDismiss={dismiss} />
